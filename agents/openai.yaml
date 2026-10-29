@@ -1,0 +1,4 @@
+interface:
+  display_name: "拾影画报 · Photo Zine"
+  short_description: "把日常实拍变成有纸张触感、摄影拼贴、粗体中文与手绘线条的画报，按原图自适应构图与配色"
+  default_prompt: "使用 $photo-editorial（拾影画报 / Photo Zine），把我的照片做成纸感剪贴画报，保留照片主体，加入与题材相符的手绘线条。"
